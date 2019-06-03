@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "minecraft:redstone"
+    },
+ 
+    {
+      "item": "minecraft:iron_ingot"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "tm:redstone_ingot",
+        "count": 1
+    }
+}

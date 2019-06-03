@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "A A",
+        "R R",
+        "R R"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "tm:redstone_ingot"
+        },
+         
+         "A":
+        {
+            "item": "tm:activated_redstone"
+        }
+    },
+   
+    "result":
+    {
+        "item": "tm:redstone_ingot_boots",
+        "count": 1
+    }
+}

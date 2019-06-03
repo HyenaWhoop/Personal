@@ -1,0 +1,19 @@
+//Items
+item.redstone_ingot.name=Redstone Ingot
+item.activated_redstone.name=Activated Redstone
+
+//Blocks
+tile.redstone_ingot_block.name=Block of Redstone Ingot
+
+//Tools
+item.redstone_ingot_sword.name=Redstone Ingot Sword
+item.redstone_ingot_shovel.name=Redstone Ingot Shovel
+item.redstone_ingot_axe.name=Redstone Ingot Axe
+item.redstone_ingot_pickaxe.name=Redstone Ingot Pickaxe
+item.redstone_ingot_hoe.name=Redstone Ingot Hoe
+
+//Armor
+item.redstone_ingot_helmet.name=Redstone Ingot Helmet
+item.redstone_ingot_chestplate.name=Redstone Ingot Chestplate
+item.redstone_ingot_leggings.name=Redstone Ingot Leggings
+item.redstone_ingot_boots.name=Redstone Ingot Boots

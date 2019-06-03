@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "RRA",
+        "RL ",
+        "AL "
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "tm:redstone_ingot"
+        },
+         
+         "A":
+        {
+            "item": "tm:activated_redstone"
+        },
+        
+         "L":
+        {
+            "item": "minecraft:dye",
+            "data": 4
+        }
+    },
+   
+    "result":
+    {
+        "item": "tm:redstone_ingot_axe",
+        "count": 1
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "ARA",
+        " L ",
+        " L "
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "tm:redstone_ingot"
+        },
+         
+         "A":
+        {
+            "item": "tm:activated_redstone"
+        },
+        
+         "L":
+        {
+            "item": "minecraft:dye",
+            "data": 4
+        }
+    },
+   
+    "result":
+    {
+        "item": "tm:redstone_ingot_shovel",
+        "count": 1
+    }
+}
